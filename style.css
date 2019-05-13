@@ -1,0 +1,40 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.social-bar{
+    text-align: right;
+    width: 100%;
+    height: 3%;
+}
+.lightblue{
+    background-color: lightblue;
+}
+.container-fluid .row .col-md-3 h1,p{
+    font-family: Stylish,cursive;
+}
+.border-2{
+    border: 1px dotted lightgray;
+    border-radius: 3px;
+    box-shadow: 0 1px 2px black;
+}
+.bcolor{
+    background-color: aliceblue;
+}
+.img-fluid.h-70{
+    height: 70% !important;
+}
+.border-bt{
+    border-bottom: 1px solid lightgray;
+    border-top: 1px solid lightgray;
+}
+.black{
+    background-color: black;
+}
+.text-white{
+    color: white;
+}
+.form-control .email-input{
+    border: 0;
+    border-radius: 3px;
+}
